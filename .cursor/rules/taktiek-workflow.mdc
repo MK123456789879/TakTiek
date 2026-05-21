@@ -1,0 +1,34 @@
+---
+description: TakTiek STATUS.md, git workflow, en privacy-checklist regels
+alwaysApply: true
+---
+
+# TakTiek — Cursor workflow (kernregels)
+
+Lees bij sessie-start: `STATUS.md` (repo root) en `docs/TakTiek_cursor_workflow.md` voor volledige instructie.
+
+## Regels
+
+1. **STATUS.md** alleen aan het **einde** van een sessie bijwerken — niet na elke commit.
+2. **Eén push per sessie** (code + STATUS samen), na geslaagde `npm run build`. Uitzondering: `wip:` bij onderbroken sessie.
+3. **STATUS-structuur** niet hernoemen/verwijderen — alleen inhoud binnen vaste secties bijwerken.
+4. **Decision log**: feitelijk, neutraal — `datum — wie — wat — waarom — impact`.
+5. **Privacy-checklist**: `[x]` alleen na verificatie in code; bij twijfel `[~]` of `[!]`.
+
+## Commits
+
+Conventional Commits: `feat`, `fix`, `refactor`, `style`, `chore`, `docs`, `wip`.  
+STATUS-afsluiting: `chore(status): sessie [datum] — [kenmerk]`.
+
+## Niet doen
+
+- Specs in `docs/` stilletjes wijzigen zonder decision-log entry.
+- Pushen zonder groene build.
+- Force-push naar `main`.
+- Martens keuzes in decision log “corrigeren” zonder overleg.
+
+## Bouwen
+
+```bash
+cd taktiek-site && npm run dev   # altijd vanuit deze map
+```
