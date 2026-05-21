@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# TakTiek — dummy site
 
-## Getting Started
+Wekelijkse peergroup-site voor TakTiek (Weert/Nederweert). Dit is een **demo** zonder echte backend, auth of database.
 
-First, run the development server:
+## Starten
 
 ```bash
+cd taktiek-site
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Belangrijk:** start de server altijd vanuit de map `taktiek-site`, niet vanuit de bovenliggende `TakTiek`-map. Zie je overal “Deze pagina bestaat niet”, stop dan de oude server (`Ctrl+C`) en start opnieuw met `npm run dev` in `taktiek-site`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Dummy vs. echt
 
-## Learn More
+| Onderdeel | Dummy | Later |
+|-----------|-------|-------|
+| Aanmelden | `console.log` + succesmodal | Supabase |
+| Inloggen | Knop "demo-ouder" → portal | Google OAuth + magic link |
+| Portal | Lokale mock-data | Supabase + RLS |
+| Foto's | SVG-placeholders in `public/images/placeholder/` | Eigen foto's (zie README daar) |
 
-To learn more about Next.js, take a look at the following resources:
+## Placeholder-foto's
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Vervang de bestanden in `public/images/placeholder/` door je eigen `.jpg` of `.webp` — zie `public/images/placeholder/README.md`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Pitch-volgorde
 
-## Deploy on Vercel
+1. Home → 2. Vertrouwen → 3. Aanmelden → 4. Portal mijn-kind (verwijderen) → 5. Team
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Documentatie
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Bron-specs staan in `/docs/` (content, layouts, photography, handover).
+
+## Build
+
+```bash
+npm run build
+```
+
+Deploybaar op Vercel.

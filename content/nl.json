@@ -1,0 +1,350 @@
+{
+  "global": {
+    "brand_name": "TakTiek",
+    "brand_tagline": "Een plek voor nieuwsgierige denkers",
+    "brand_subline": "Wekelijkse peergroup voor (vermoedelijk) meer- en hoogbegaafde kinderen in Weert en Nederweert",
+    "nav": {
+      "home": "Home",
+      "about": "Over TakTiek",
+      "team": "Het team",
+      "approach": "Onze aanpak",
+      "trust": "Vertrouwen",
+      "faq": "Vragen",
+      "signup": "Aanmelden",
+      "login": "Inloggen"
+    },
+    "footer": {
+      "site_heading": "Site",
+      "privacy_heading": "Privacy",
+      "contact_heading": "Contact",
+      "contact_label": "Contact",
+      "contact_email": "peergrouptaktiek@gmail.com",
+      "contact_fb": "TakTiek op Facebook",
+      "origin_note": "TakTiek is voortgekomen uit de oudergemeenschap HB Ouders Weert / Nederweert.",
+      "privacy_link": "Privacyverklaring",
+      "trust_link": "Hoe we omgaan met gegevens",
+      "copyright": "© 2026 TakTiek",
+      "tagline": "Wekelijkse peergroup voor (vermoedelijk) meer- en hoogbegaafde kinderen in Weert en Nederweert."
+    },
+    "language": {
+      "nl": "NL",
+      "en": "EN",
+      "coming_soon": "Coming soon"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Peergroup Weert · Vrijdagmiddag",
+      "title_before": "Een plek voor kinderen die ",
+      "title_accent": "anders denken",
+      "subtitle": "Een wekelijkse peergroup voor (vermoedelijk) meer- en hoogbegaafde kinderen van 5 tot 12 jaar in Weert en Nederweert. Geen extra schoolwerk. Wel ruimte voor ideeën, samenwerking en plezier.",
+      "cta_primary": "Meld je kind aan",
+      "cta_secondary": "Lees hoe wij werken →",
+      "quote1": "\"Mag ik dit ook proberen?\"",
+      "quote2": "\"Kijk eens wat ik bedacht!\"",
+      "quote3": "\"Zullen we het samen doen?\""
+    },
+    "pillars": {
+      "eyebrow": "Wat we belangrijk vinden",
+      "heading": "Verbinding boven prestatie",
+      "subheading": "Contact met ontwikkelingsgelijken is minstens zo belangrijk als cognitieve uitdaging.",
+      "items": [
+        { "title": "Ontmoeten", "body": "Kinderen leren kinderen kennen die op een vergelijkbare manier in de wereld staan." },
+        { "title": "Samen denken", "body": "Geen frontale lessen. We werken aan opdrachten waarbij overleg en verschillende perspectieven nodig zijn." },
+        { "title": "Ruimte voor jezelf", "body": "Wie even rust nodig heeft, mag dat nemen. Zelfregulatie is welkom, geen probleem." },
+        { "title": "Bouwen aan vaardigheden", "body": "Door samen spellen te maken ontdekken kinderen hoe ze problemen aanpakken en doorzetten." }
+      ]
+    },
+    "practical_strip": {
+      "items": [
+        { "label": "Voor wie", "value": "5 – 12 jaar" },
+        { "label": "Wanneer", "value": "Vrijdagmiddag" },
+        { "label": "Waar", "value": "Keenterhart Weert" },
+        { "label": "Groep", "value": "Max. 12 kinderen" }
+      ]
+    },
+    "trust": {
+      "eyebrow": "Hoe we met gegevens omgaan",
+      "heading": "Aanmelden voelt klein, maar er staat veel op het spel",
+      "body1": "Als ouder van een meer- of hoogbegaafd kind heb je waarschijnlijk al vaak gevoelige informatie moeten delen — met scholen, met zorgverleners, met instanties. Dat is niet altijd zorgvuldig gegaan.",
+      "body2": "Bij TakTiek werkt het anders. We vragen alleen wat we echt nodig hebben. Bijzonderheden over je kind blijven bij de begeleiders van die sessie, niet bij de hele groep. Je kunt op elk moment je gegevens inzien, wijzigen of verwijderen — direct, zonder ons te hoeven mailen.",
+      "link": "Lees onze privacyverklaring →",
+      "items": [
+        { "title": "Geen onnodige vragen", "body": "We vragen geen geboortedatum, geen BSN, geen diagnose, geen schoolnaam. Alleen wat we nodig hebben om je kind goed te begeleiden." },
+        { "title": "Bij elk veld staat waarom", "body": "Geen mysterieuze formuliervelden. Bij elke vraag staat waarom we het vragen en wie de informatie te zien krijgt." },
+        { "title": "Gevoelige info gescheiden bewaard", "body": "Bijzonderheden over gezondheid of gevoeligheden zien alleen de begeleiders die op die sessie aanwezig zijn. Niet de hele groep, niet de community." },
+        { "title": "Verwijderen is een knop", "body": "Wil je stoppen? In je persoonlijke omgeving zit een knop \"aanmelding intrekken\". Klikken is genoeg. Geen e-mailverkeer, geen wachttijd." }
+      ]
+    },
+    "cta_block": {
+      "heading": "Klaar om je kind aan te melden?",
+      "body": "Er zijn een beperkt aantal plekken per ronde. Aanmelden kost je vijf minuten.",
+      "cta": "Aanmeldformulier openen →"
+    }
+  },
+  "about": {
+    "hero": { "eyebrow": "Over TakTiek", "title": "Waarom we dit doen" },
+    "story": {
+      "heading": "Het verhaal achter TakTiek",
+      "body": "TakTiek is ontstaan uit gesprekken tussen ouders van meer- en hoogbegaafde kinderen in de regio Weert en Nederweert. We merkten dat het bestaande aanbod versnipperd is en dat veel kinderen — ook degenen die op school nog niet expliciet vastlopen — baat hebben bij contact met ontwikkelingsgelijken buiten de schoolcontext.\n\nHelen, initiatiefnemer van TakTiek, heeft ervaring met peergroups voor begaafde kinderen en wilde dit dichterbij huis vormgeven. In samenwerking met Speelotheek Weert en een groep betrokken ouders is daar deze eerste pilot uit ontstaan.\n\nTakTiek is voortgekomen uit de bredere oudergemeenschap HB Ouders Weert / Nederweert, maar staat als initiatief op zichzelf."
+    },
+    "doelstelling": {
+      "heading": "Onze doelstelling",
+      "body": "TakTiek is een sociale peergroup voor (vermoedelijk) meer- en hoogbegaafde kinderen in de basisschoolleeftijd. We willen verbinding en contact tussen gelijkgestemde kinderen bevorderen.",
+      "points": ["Het ontmoeten van ontwikkelingsgelijken", "Sociale vorming", "Emotionele vorming", "Cognitieve uitdaging", "Bevorderen van metacognitieve vaardigheden"]
+    },
+    "not_for": {
+      "heading": "Wat TakTiek níet is",
+      "body": "We willen helder zijn over de afbakening — dat helpt om verwachtingen goed te managen.",
+      "items": ["Geen vervanging voor een diagnose- of zorgtraject", "Geen plusklas of huiswerkbegeleiding", "Geen therapeutische groep", "Geen verlengstuk van het schoolprogramma"]
+    },
+    "organization": {
+      "heading": "Hoe het georganiseerd is",
+      "body": "TakTiek wordt geleid door Helen als initiatiefnemer en inhoudelijk verantwoordelijke. Een groep ouders ondersteunt bij begeleiding tijdens de sessies. Studio Kauw verzorgt vormgeving en communicatie. De activiteiten vinden plaats bij Speelotheek Weert in het Keenterhart, waar we ook samenwerken op het gebied van materiaal en programmering.\n\nAlle uren tijdens de pilot zijn vrijwillig. Eventuele inkomsten gaan terug naar het netwerk."
+    },
+    "cta_team": "Maak kennis met het team →"
+  },
+  "team": {
+    "hero": {
+      "eyebrow": "Het team",
+      "title": "De mensen achter TakTiek",
+      "intro": "TakTiek wordt gedragen door ouders die zelf weten wat het is. Iedereen hier doet dit naast werk en gezin, omdat we geloven dat onze kinderen dit verdienen."
+    },
+    "members": [
+      { "name": "Helen", "role": "Initiatiefnemer & inhoud", "bio": "Helen is de drijvende kracht achter TakTiek. Ze heeft ervaring met peergroups voor begaafde kinderen en weet hoe je een veilige plek creëert waar kinderen zich kunnen ontwikkelen op hun eigen manier. Helen verzorgt de inhoudelijke opzet van de sessies en coördineert het programma.", "image": "/images/placeholder/team-helen-placeholder.svg", "color": "teal" },
+      { "name": "Alessandro", "role": "Vormgeving & communicatie", "bio": "Alessandro is vader, ontwerper en mede-oprichter van de HB-oudergemeenschap in Weert. Vanuit zijn studio Studio Kauw helpt hij TakTiek met vormgeving, communicatie en de praktische opzet. Tijdens sessies is hij vaak aanwezig als begeleider.", "image": "/images/placeholder/team-alessandro-placeholder.svg", "color": "coral" },
+      { "name": "Marten", "role": "Design & digitale tools", "bio": "Marten is vader, motion designer en applied AI engineer. Hij ondersteunt TakTiek met design, communicatie en digitale infrastructuur — denk aan deze website, social media en visuele identiteit. Op de achtergrond, maar betrokken.", "image": "/images/placeholder/team-marten-placeholder.svg", "color": "lime" },
+      { "name": "Rens", "role": "Begeleider", "bio": "Rens is vader van Lenn en helpt mee als begeleider tijdens de wekelijkse sessies. Hij denkt mee over praktische zaken en is een vertrouwd gezicht voor de kinderen.", "image": "/images/placeholder/team-rens-placeholder.svg", "color": "purple" },
+      { "name": "Jessica", "role": "Begeleider", "bio": "Jessica is ouder uit de community en ondersteunt het team als begeleider tijdens de sessies. Ze brengt rust en ervaring mee.", "image": "/images/placeholder/team-jessica-placeholder.svg", "color": "teal" }
+    ],
+    "footer_note": "Wil je een keer meelopen of meedenken? Stuur ons een berichtje via peergrouptaktiek@gmail.com."
+  },
+  "approach": {
+    "hero": { "eyebrow": "Onze aanpak", "title": "Hoe een sessie eruitziet" },
+    "rhythm": { "heading": "Wekelijks ritme", "body": "Elke vrijdagmiddag komen we samen voor ongeveer anderhalf uur. We werken in één gemixte groep met kinderen van verschillende leeftijden. Dat is bewust: oudere kinderen leren begeleiden, jongere kinderen krijgen ruimte om mee te kijken en mee te doen op hun eigen niveau." },
+    "theme": { "heading": "Het thema", "body": "Elk blok van sessies werkt rond één centraal thema. Het eerste thema is **'Spellen: spelen en zelf maken'**. Kinderen spelen verschillende soorten spellen, ontdekken hoe ze in elkaar zitten, en werken toe naar het ontwerpen van een eigen spel. Aan het eind van het blok organiseren we een spellenmiddag waar ouders en peers worden uitgenodigd om te komen spelen wat de kinderen hebben gemaakt." },
+    "method": {
+      "heading": "Hoe we werken",
+      "body": "We gebruiken het TASC-model (Thinking Actively in a Social Context) als rode draad. Dat klinkt formeel, maar in de praktijk betekent het dat we kinderen helpen om bewust te worden van hóe ze problemen aanpakken — niet alleen wát ze maken.\n\nConcreet betekent dat:",
+      "items": ["Veel ruimte voor eigen inbreng", "Samenwerken in wisselende combinaties", "Reflectie tussendoor — wat ging goed, wat anders?", "Een rustige hoek voor wie even tijd voor zichzelf nodig heeft"]
+    },
+    "location": { "heading": "Waar het gebeurt", "body": "We zijn te gast in een ruimte van Speelotheek Weert in het Keenterhart. Dat betekent dat we toegang hebben tot een grote collectie spellen en speelgoed, en dat ouders gedurende de sessie in de naastgelegen ruimte koffie kunnen drinken.\n\nElk kind dat meedoet wordt lid van de Speelotheek (€1 per jaar, symbolisch). Daarmee mogen kinderen ook buiten de sessies om spellen lenen." },
+    "cta": "Meld je kind aan →"
+  },
+  "vertrouwen": {
+    "hero": { "eyebrow": "Vertrouwen", "title": "Hoe wij omgaan met de gegevens van je kind" },
+    "intro": "Als ouder van een meer- of hoogbegaafd kind heb je waarschijnlijk al vaak gevoelige informatie moeten delen. Bij TakTiek werken we anders: privacy is geen bijlage, maar een ontwerpprincipe.",
+    "principles": [
+      { "title": "Geen onnodige vragen", "body": "We vragen geen geboortedatum, geen BSN, geen diagnose. Alleen wat we nodig hebben om je kind goed te begeleiden." },
+      { "title": "Bij elk veld staat waarom", "body": "Geen mysterieuze formuliervelden. Bij elke vraag staat waarom we het vragen en wie de informatie te zien krijgt." },
+      { "title": "Gevoelige info gescheiden bewaard", "body": "Bijzonderheden zien alleen de begeleiders die op die sessie aanwezig zijn. Niet de hele groep, niet de community." },
+      { "title": "Verwijderen is een knop", "body": "Wil je stoppen? In je persoonlijke omgeving zit een knop om je aanmelding in te trekken. Klikken is genoeg." }
+    ],
+    "difference": "Dit is de gewone-taal-versie. De volledige juridische verklaring vind je in onze privacyverklaring.",
+    "incident": { "heading": "Wat we doen als er iets misgaat", "body": "Mocht er onverhoopt iets misgaan met gegevens, nemen we direct contact op met betrokken ouders en documenteren we wat er is gebeurd en welke stappen we nemen." },
+    "contact": "Vragen? Mail ons op peergrouptaktiek@gmail.com"
+  },
+  "faq": {
+    "hero": { "eyebrow": "Vragen", "title": "Veelgestelde vragen" },
+    "categories": [
+      {
+        "name": "Voor wie?",
+        "items": [
+          { "q": "Voor welke kinderen is TakTiek bedoeld?", "a": "Voor kinderen van 5 tot en met 12 jaar waarvan je vermoedt dat ze meer- of hoogbegaafd zijn. Een formele diagnose is niet nodig om mee te doen." },
+          { "q": "Hoe weet ik of TakTiek iets voor mijn kind is?", "a": "Als je twijfelt, neem dan contact met ons op. We gaan graag met je in gesprek. Soms is dit de juiste plek, soms passen andere initiatieven beter — daar zijn we eerlijk over." },
+          { "q": "Werken jullie met leeftijdsgroepen?", "a": "Tijdens de pilot werken we met één gemixte groep. We hebben goede ervaringen met het samenbrengen van verschillende leeftijden." }
+        ]
+      },
+      {
+        "name": "Praktisch",
+        "items": [
+          { "q": "Wat als mijn kind niet alle sessies kan?", "a": "Deeltijd-aanmelding is mogelijk. Tijdens de pilot kijken we per ronde wat haalbaar is. Meld het in het aanmeldformulier." },
+          { "q": "Wie begeleiden de sessies?", "a": "Helen verzorgt de inhoud. Daarnaast zijn er per sessie meerdere ouders aanwezig als begeleider. Zie de teampagina voor wie wie is." },
+          { "q": "Is dit een schoolinitiatief?", "a": "Nee. TakTiek staat los van school. We werken wel samen met Speelotheek Weert." }
+        ]
+      },
+      {
+        "name": "Geld & lidmaatschap",
+        "items": [
+          { "q": "Wat kost het?", "a": "[PLACEHOLDER: kostenstructuur — komt in een latere versie]" }
+        ]
+      },
+      {
+        "name": "Privacy & gegevens",
+        "items": [
+          { "q": "Wat gebeurt er met de gegevens die ik bij aanmelding deel?", "a": "We gaan zorgvuldig om met je gegevens. In onze privacyverklaring lees je precies wat we verzamelen, waarom en hoe lang we het bewaren." }
+        ]
+      }
+    ],
+    "cta": "Andere vraag? Mail ons."
+  },
+  "signup": {
+    "hero": { "eyebrow": "Aanmelden", "title": "Welkom bij TakTiek", "intro": "Leuk dat je interesse hebt. Vul het formulier hieronder in — we nemen daarna contact op om de aanmelding te bevestigen." },
+    "privacy_bar": "We vragen alleen wat nodig is. Bij elk veld lees je waarom.",
+    "privacy_link": "Lees meer over hoe we omgaan met je gegevens →",
+    "sections": {
+      "child": "Over je kind",
+      "parent": "Over jou (ouder/verzorger)",
+      "practical": "Praktisch",
+      "care": "Bijzonderheden",
+      "consent": "Toestemming"
+    },
+    "fields": {
+      "child_name": { "label": "Naam van je kind", "why": "Zodat we je kind kunnen aanspreken bij de eerste sessie." },
+      "child_age": { "label": "Leeftijd", "why": "Zodat we de groep evenwichtig kunnen samenstellen. We vragen geen geboortedatum." },
+      "child_school_group": { "label": "Schoolgroep (optioneel)", "why": "Handig voor het indelen van werkgroepjes, maar niet verplicht." },
+      "parent_name": { "label": "Jouw naam", "why": "Zodat we je kunnen bereiken over de aanmelding." },
+      "parent_email": { "label": "E-mailadres", "why": "Voor de bevestiging en communicatie over sessies." },
+      "parent_phone": { "label": "Telefoonnummer", "why": "Voor noodgevallen of laatste-minuut-afzegging." },
+      "attendance": { "label": "Kan je kind alle sessies aanwezig zijn?", "why": "Zodat we weten hoe we de groep kunnen plannen." },
+      "attendance_all": "Ja, alle sessies",
+      "attendance_biweekly": "Om de week (deeltijd)",
+      "attendance_other": "Anders, namelijk:",
+      "speelotheek": { "label": "Is je kind al lid van Speelotheek Weert?", "why": "Lidmaatschap is nodig om spellen te lenen (€1 per jaar)." },
+      "speelotheek_yes": "Ja",
+      "speelotheek_no": "Nee",
+      "speelotheek_unknown": "Weet ik niet",
+      "care": { "label": "Bijzonderheden (optioneel)", "why": "Alleen gedeeld met begeleiders van sessies waar je kind aan deelneemt — niet met andere ouders." },
+      "care_intro": "Zijn er dingen waar de begeleiders rekening mee moeten houden? Denk aan allergieën, gevoeligheden of zaken die helpen om je kind zich op zijn gemak te laten voelen. Vul alleen in wat je relevant vindt om te delen."
+    },
+    "consent_privacy": "Ik heb de privacyverklaring gelezen en geef toestemming voor de verwerking van deze gegevens zoals daarin beschreven.",
+    "consent_photo": "Ik geef toestemming voor het maken van sfeerfoto's tijdens de sessies (zonder identificeerbaar in beeld zijnde gezichten van mijn kind te delen via openbare kanalen).",
+    "submit": "Aanmelding versturen →",
+    "success": {
+      "heading": "Bedankt voor je aanmelding",
+      "body": "We hebben je aanmelding ontvangen. Binnen een paar dagen nemen we contact op om de deelname te bevestigen.",
+      "demo_notice": "Dit is een demo — er is niets opgeslagen.",
+      "data_heading": "Wat gebeurt er nu met deze gegevens?",
+      "data_body": "In de echte versie worden je gegevens veilig opgeslagen en alleen gedeeld met begeleiders die op de sessies aanwezig zijn. Je kunt ze op elk moment inzien, wijzigen of verwijderen via het ouderportaal."
+    }
+  },
+  "privacy": {
+    "hero": { "eyebrow": "Privacy", "title": "Privacyverklaring", "last_updated": "Laatst bijgewerkt: [PLACEHOLDER: datum]" },
+    "intro": "Bij TakTiek vinden we het belangrijk dat je weet wat er met je gegevens gebeurt. In deze verklaring leggen we uit welke gegevens we verzamelen, waarvoor we ze gebruiken, hoe lang we ze bewaren en welke rechten je hebt.",
+    "toc": "Inhoudsopgave",
+    "sections": [
+      { "id": "verantwoordelijke", "heading": "Wie is verantwoordelijk voor je gegevens?", "body": "[PLACEHOLDER: naam en contactgegevens verwerkingsverantwoordelijke]\n\nDit moet één duidelijke partij zijn. De opties die nu op tafel liggen:\n- Studio Kauw (Alessandro)\n- Stichting in oprichting \"TakTiek\"\n- Helen als natuurlijk persoon" },
+      { "id": "welke-gegevens", "heading": "Welke gegevens verzamelen we?", "body": "Wanneer je je kind aanmeldt voor TakTiek, vragen we:\n- Naam en leeftijd van je kind\n- Jouw naam, e-mailadres en telefoonnummer\n- Eventuele schoolgroep (optioneel)\n- Of er bijzonderheden zijn waar we rekening mee moeten houden (optioneel)\n- Of je kind al lid is van Speelotheek Weert" },
+      { "id": "waarvoor", "heading": "Waarvoor gebruiken we deze gegevens?", "body": "- Om contact met je op te nemen over de aanmelding\n- Om de groep samen te stellen en sessies te organiseren\n- Om begeleiders te informeren over bijzonderheden die relevant zijn voor de sessie\n- Om je te informeren over praktische zaken\n\nWe gebruiken je gegevens niet voor marketing, niet voor doorverkoop, en niet voor doeleinden buiten TakTiek." },
+      { "id": "gezondheid", "heading": "Gezondheidsgegevens", "body": "Wanneer je in het aanmeldformulier informatie deelt over allergieën, gezondheid of gevoeligheden van je kind, beschouwen wij dat als bijzondere persoonsgegevens. Deze gegevens zijn alleen toegankelijk voor de begeleiders die op de sessie aanwezig zijn waar het kind aan deelneemt." },
+      { "id": "bewaren", "heading": "Hoe lang bewaren we je gegevens?", "body": "Aanmeldgegevens bewaren we zolang je kind deelneemt aan TakTiek, plus één jaar daarna voor administratieve doeleinden. Je kunt eerder verwijdering aanvragen." },
+      { "id": "delen", "heading": "Met wie delen we je gegevens?", "body": "- Begeleiders van TakTiek — voor zover relevant voor hun begeleidende rol\n- Speelotheek Weert — alleen indien je kind lid wordt of is van de Speelotheek\n- Niemand anders — we delen geen gegevens met externe partijen zonder jouw expliciete toestemming" },
+      { "id": "rechten", "heading": "Jouw rechten", "body": "Je hebt het recht om je gegevens in te zien, te corrigeren, te laten verwijderen, toestemming in te trekken, en een klacht in te dienen bij de Autoriteit Persoonsgegevens. Voor al deze verzoeken kun je contact opnemen via peergrouptaktiek@gmail.com." },
+      { "id": "vragen", "heading": "Vragen over deze verklaring", "body": "Voor vragen over hoe wij met je gegevens omgaan, kun je contact opnemen via peergrouptaktiek@gmail.com." }
+    ]
+  },
+  "portal": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "agenda": "Agenda",
+      "announcements": "Mededelingen",
+      "child": "Mijn kind",
+      "settings": "Instellingen",
+      "logout": "Uitloggen"
+    },
+    "login": {
+      "heading": "Welkom terug",
+      "intro": "Log in om de agenda en mededelingen te bekijken.",
+      "email_label": "E-mailadres",
+      "password_label": "Wachtwoord",
+      "login_btn": "Inloggen",
+      "google_btn": "Inloggen met Google",
+      "forgot": "Wachtwoord vergeten?",
+      "demo_btn": "Inloggen als demo-ouder",
+      "privacy_note": "Je ziet hier alleen de gegevens van je eigen kind(eren).",
+      "or": "of"
+    },
+    "dashboard": {
+      "welcome": "Welkom terug, {name}",
+      "upcoming": "Aankomende sessies",
+      "announcements": "Mededelingen",
+      "child": "Mijn kind",
+      "view_all_agenda": "Bekijk agenda en schrijf in",
+      "view_all_announcements": "Alle mededelingen",
+      "manage_child": "Gegevens beheren",
+      "next_session": "Aankomende sessie",
+      "not_enrolled_cta": "Bekijk agenda en schrijf in"
+    },
+    "agenda": {
+      "heading": "Agenda",
+      "intro": "Schrijf je kind in voor een themareeks en bekijk alle sessies in de kalender.",
+      "archive": "Verlopen sessies",
+      "status_confirmed": "Bevestigd",
+      "status_pending": "Onder voorbehoud",
+      "status_cancelled": "Afgelast",
+      "view_calendar": "Kalender",
+      "view_list": "Lijst",
+      "view_toggle_label": "Weergave agenda",
+      "prev_month": "Vorige maand",
+      "next_month": "Volgende maand",
+      "legend_enrolled": "Ingeschreven",
+      "legend_available": "Sessie beschikbaar",
+      "legend_cancelled": "Afgelast",
+      "select_day_hint": "Klik op een vrijdag in de kalender om sessiedetails te zien.",
+      "enrolled_badge": "Ingeschreven",
+      "not_enrolled_hint": "Je bent nog niet ingeschreven voor deze reeks. Schrijf hierboven in voor alle sessies.",
+      "series_label": "Themareeks",
+      "series_period": "Periode",
+      "series_sessions": "Sessies",
+      "series_sessions_unit": "vrijdagen",
+      "spots_label": "Plekken",
+      "spots_left": "{count} plekken vrij",
+      "series_enroll": "Schrijf {name} in voor deze reeks",
+      "series_unenroll": "Afmelden voor deze reeks ({name})",
+      "series_enrolled": "Ingeschreven voor deze reeks",
+      "series_full": "Reeks vol",
+      "series_closed": "Inschrijving voor deze reeks is nog niet open.",
+      "series_upcoming": "Binnenkort",
+      "series_privacy_note": "Bijzonderheden over je kind zijn alleen zichtbaar voor begeleiders van sessies waar je kind aan deelneemt.",
+      "series_confirm_enroll_title": "Inschrijven bevestigen",
+      "series_confirm_unenroll_title": "Afmelden bevestigen",
+      "series_confirm_enroll_body": "Je schrijft {name} in voor alle {count} sessies in \"{title}\".",
+      "series_confirm_unenroll_body": "Je meldt {name} af voor de reeks \"{title}\". Je kind neemt dan niet meer deel aan de komende sessies.",
+      "series_confirm_btn": "Bevestigen",
+      "series_cancel_btn": "Annuleren",
+      "demo_notice": "Dit is een demo — inschrijving wordt niet echt opgeslagen."
+    },
+    "announcements": {
+      "heading": "Mededelingen",
+      "filter_all": "Alles",
+      "filter_unread": "Ongelezen",
+      "empty": "Nog geen mededelingen."
+    },
+    "child": {
+      "heading": "Gegevens van mijn kind",
+      "intro": "Hier kun je de gegevens van je kind inzien en wijzigen. Wijzigingen worden direct verwerkt.",
+      "sections": { "child": "Kind", "contact": "Contactgegevens", "attendance": "Aanwezigheid", "care": "Bijzonderheden", "consents": "Toestemmingen", "stop": "Stoppen" },
+      "care_note": "Deze informatie wordt alleen gedeeld met begeleiders van sessies waar je kind aan deelneemt.",
+      "delete_btn": "Aanmelding intrekken en alle gegevens verwijderen",
+      "delete_confirm_title": "Aanmelding intrekken?",
+      "delete_confirm_body": "Alle gegevens van je kind worden verwijderd. Dit kan niet ongedaan worden gemaakt.",
+      "delete_confirm_btn": "Ja, verwijderen",
+      "delete_cancel": "Annuleren",
+      "deleted_title": "Gegevens verwijderd",
+      "deleted_body": "De demo-gegevens zijn verwijderd. In de echte versie zou je aanmelding nu zijn ingetrokken.",
+      "save": "Opslaan"
+    },
+    "settings": {
+      "heading": "Account & toestemmingen",
+      "account": "Account",
+      "notifications": "Notificaties",
+      "email_notifications": "E-mailmeldingen over sessies",
+      "consents": "Toestemmingen",
+      "consent_privacy": "Privacyverklaring — verwerking gegevens",
+      "consent_photo": "Sfeerfoto's tijdens sessies",
+      "revoke": "Intrekken",
+      "export": "Download al mijn gegevens als JSON",
+      "delete_account": "Account verwijderen",
+      "delete_account_confirm": "Weet je zeker dat je je account wilt verwijderen?"
+    }
+  },
+  "errors": {
+    "not_found": { "title": "Deze pagina bestaat niet", "body": "Het kan zijn dat de link verlopen is. Ga terug naar de startpagina of neem contact op.", "cta": "Naar de startpagina" },
+    "generic": { "title": "Er ging iets mis", "body": "Sorry, er ging iets mis. Probeer het later opnieuw of neem contact op." }
+  },
+  "coming_soon": {
+    "title": "Binnenkort beschikbaar",
+    "body": "Deze functie komt in een latere versie.",
+    "cta": "Terug naar home"
+  }
+}
