@@ -12,7 +12,7 @@
 |------|--------|
 | Laatst bijgewerkt | 21 mei 2026 |
 | Laatste sessie-type | Cursor |
-| Laatste commit | `ba9b498` — chore(status): sessie 21-05 — workflow adoptie (STATUS + docs + Cursor rules) |
+| Laatste commit | `7e614a9` — chore(status): sessie-info bijgewerkt na workflow-adoptie |
 | Volgende geplande actie | Supabase + echte auth, of content/placeholders invullen vóór livegang |
 
 **Repo:** https://github.com/MK123456789879/TakTiek  
