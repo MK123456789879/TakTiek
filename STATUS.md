@@ -225,6 +225,7 @@ npm run build   # moet slagen vóór elke push naar main
 5. **Demo-state** — inschrijving, profiel, verwijderen: client-only (`portal-store`), geen persistentie
 6. **Dubbele STATUS.md** — repo-versie is leidend; root-kopie syncen na sessie-einde
 7. **Homepage-foto's** — `img1.png` / `img2.png` in git; optioneel later `.webp` voor performance
+8. **Git-author (alleen deze repo)** — `taktiek-site` heeft **lokale** git-config op privé: `MK123456789879` + `MK123456789879@users.noreply.github.com` (Vercel Hobby + private). Overige projecten blijven globaal zakelijk (`martenk123`). Geen `--global` gebruiken bij wijzigen.
 
 ---
 
