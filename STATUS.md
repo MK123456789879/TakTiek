@@ -12,7 +12,7 @@
 |------|--------|
 | Laatst bijgewerkt | 21 mei 2026 |
 | Laatste sessie-type | Cursor |
-| Laatste commit | (na push) — homepage rewrite + Martens foto's img1/img2 |
+| Laatste commit | `8f46c1e` — feat(home): homepage rewrite + foto's img1/img2 |
 | Volgende geplande actie | Supabase + auth; privacyverklaring-placeholder; leeftijd 5–12 vs 7–12 alignen indien gewenst |
 
 **Repo:** https://github.com/MK123456789879/TakTiek  
