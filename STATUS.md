@@ -12,7 +12,7 @@
 |------|--------|
 | Laatst bijgewerkt | 21 mei 2026 |
 | Laatste sessie-type | Cursor |
-| Laatste commit | `b7c71e5` — chore(status): laatste commit-hash in sessie-info |
+| Laatste commit | `529a491` (HEAD) · hoofdwerk `00517ed` — workflow adoptie (STATUS-template, privacy-checklist, `docs/TakTiek_cursor_workflow.md`, `.cursor/rules/`) |
 | Volgende geplande actie | Supabase + echte auth, of content/placeholders invullen vóór livegang |
 
 **Repo:** https://github.com/MK123456789879/TakTiek  
