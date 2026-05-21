@@ -20,7 +20,7 @@
       "contact_label": "Contact",
       "contact_email": "peergrouptaktiek@gmail.com",
       "contact_fb": "TakTiek op Facebook",
-      "origin_note": "TakTiek is voortgekomen uit de oudergemeenschap HB Ouders Weert / Nederweert.",
+      "origin_note": "TakTiek is voortgekomen uit de oudergemeenschap HB Ouders Weert / Nederweert. Wij geloven in de kracht van ouders die hun eigen verantwoordelijkheid nemen om een omgeving te creëren die onze kinderen verdient.",
       "privacy_link": "Privacyverklaring",
       "trust_link": "Hoe we omgaan met gegevens",
       "copyright": "© 2026 TakTiek",
@@ -34,46 +34,51 @@
   },
   "home": {
     "hero": {
-      "eyebrow": "Peergroup Weert · Vrijdagmiddag",
-      "title_before": "Een plek voor kinderen die ",
-      "title_accent": "anders denken",
-      "subtitle": "Een wekelijkse peergroup voor (vermoedelijk) meer- en hoogbegaafde kinderen van 5 tot 12 jaar in Weert en Nederweert. Geen extra schoolwerk. Wel ruimte voor ideeën, samenwerking en plezier.",
-      "cta_primary": "Meld je kind aan",
-      "cta_secondary": "Lees hoe wij werken →",
-      "quote1": "\"Mag ik dit ook proberen?\"",
-      "quote2": "\"Kijk eens wat ik bedacht!\"",
-      "quote3": "\"Zullen we het samen doen?\""
+      "eyebrow": "De haven voor het 'anders denken'",
+      "title": "Een plek waar je kind even niet hoeft te presteren.",
+      "subtitle": "Wekelijkse peergroup in Weert voor meer- en hoogbegaafde kinderen (5-12 jaar). Geen schoolwerk, geen labels, geen druk. Wel de uitdaging en herkenning waar je kind naar zoekt.",
+      "cta_primary": "Meld je kind aan voor een kennismaking",
+      "cta_secondary": "Lees onze visie →",
+      "image_alt": "Kinderen tijdens een TakTiek-sessie in Keenterhart Weert"
     },
     "pillars": {
-      "eyebrow": "Wat we belangrijk vinden",
-      "heading": "Verbinding boven prestatie",
-      "subheading": "Contact met ontwikkelingsgelijken is minstens zo belangrijk als cognitieve uitdaging.",
+      "eyebrow": "Wat we doen",
+      "heading": "De balans tussen uitdaging en rust",
+      "subheading": "We zien dat school vaak levert in 'moeten'. Wij leveren in 'mogen'. TakTiek is ontstaan uit onze eigen zoektocht naar een plek waar onze kinderen zichzelf kunnen zijn, zonder dat daar een behandelplan of diagnose aan te pas komt.",
       "items": [
-        { "title": "Ontmoeten", "body": "Kinderen leren kinderen kennen die op een vergelijkbare manier in de wereld staan." },
-        { "title": "Samen denken", "body": "Geen frontale lessen. We werken aan opdrachten waarbij overleg en verschillende perspectieven nodig zijn." },
-        { "title": "Ruimte voor jezelf", "body": "Wie even rust nodig heeft, mag dat nemen. Zelfregulatie is welkom, geen probleem." },
-        { "title": "Bouwen aan vaardigheden", "body": "Door samen spellen te maken ontdekken kinderen hoe ze problemen aanpakken en doorzetten." }
+        { "title": "Verbinding boven prestatie", "body": "Contact met ontwikkelingsgelijken is de brandstof voor je kind. Bij ons ontmoeten ze kinderen die op een vergelijkbare manier in de wereld staan." },
+        { "title": "Structuur in vrijheid", "body": "We gebruiken bewezen HB-methodieken om uitdagende projecten op te zetten. Maar: de focus ligt op het proces. Het doel is niet het resultaat, maar het plezier in het onderzoeken en het omgaan met intellectuele frustratie." },
+        { "title": "Ruimte voor de 'HB-intensiteit'", "body": "Is je kind overprikkeld na een zware schoolweek? Geen probleem. Wie even rust nodig heeft of moet ontladen, mag dat. Wij begrijpen dat dat bij de ontwikkeling hoort." }
       ]
+    },
+    "how_we_work": {
+      "eyebrow": "Hoe wij werken",
+      "heading": "Ervaringsdeskundigheid met een vangnet",
+      "intro": "Wij zijn ouders, net als jij. We kennen de frustraties van het huidige HB-landschap. We hebben het heft in eigen handen genomen en een omgeving gecreëerd die wél werkt.",
+      "items": [
+        { "title": "Ouders die jou voelen", "body": "Onze begeleiding bestaat uit ouders die zelf weten wat het is om een kind te hebben dat altijd 'aan' staat. Wij zijn geen therapeuten, wij zijn de mensen die zien wanneer het goed gaat en wanneer een kind even een zetje nodig heeft." },
+        { "title": "Methodische ruggengraat", "body": "Hoewel we een informele sfeer bieden, werken we niet op basis van toeval. Ons programma is getoetst door experts in de HB-zorg. Zij vormen onze achterwacht en adviseren ons bij complexe groepsdynamiek. Zo combineren we het beste van twee werelden: de menselijkheid van een ouderinitiatief en de kennis van de professional." },
+        { "title": "Geen zorginstelling", "body": "Zoek je hulp bij diagnoses, intensieve begeleiding of therapie? Dan verwijzen wij je graag naar het CJG of de GGZ. TakTiek is de plek voor het normale leven van een uitzonderlijk kind." }
+      ],
+      "image_alt": "Sfeerbeeld van een TakTiek-sessie met kinderen en begeleiders"
     },
     "practical_strip": {
       "items": [
         { "label": "Voor wie", "value": "5 – 12 jaar" },
         { "label": "Wanneer", "value": "Vrijdagmiddag" },
         { "label": "Waar", "value": "Keenterhart Weert" },
-        { "label": "Groep", "value": "Max. 12 kinderen" }
+        { "label": "Groep", "value": "Max. 12 kinderen", "clarification": "(om de sfeer intiem en overzichtelijk te houden)" }
       ]
     },
     "trust": {
-      "eyebrow": "Hoe we met gegevens omgaan",
-      "heading": "Aanmelden voelt klein, maar er staat veel op het spel",
-      "body1": "Als ouder van een meer- of hoogbegaafd kind heb je waarschijnlijk al vaak gevoelige informatie moeten delen — met scholen, met zorgverleners, met instanties. Dat is niet altijd zorgvuldig gegaan.",
-      "body2": "Bij TakTiek werkt het anders. We vragen alleen wat we echt nodig hebben. Bijzonderheden over je kind blijven bij de begeleiders van die sessie, niet bij de hele groep. Je kunt op elk moment je gegevens inzien, wijzigen of verwijderen — direct, zonder ons te hoeven mailen.",
+      "eyebrow": "Over gegevens en vertrouwen",
+      "heading": "Privacy is hier geen bijzaak",
+      "body": "Wij snappen dat je als HB-ouder genoeg hebt van onduidelijke dossiers en informatie die je niet terugkrijgt. Bij TakTiek houden we het simpel: we vragen alleen wat we echt nodig hebben, we delen niet meer dan moet, en jij bepaalt wat er gebeurt met je gegevens.",
       "link": "Lees onze privacyverklaring →",
       "items": [
-        { "title": "Geen onnodige vragen", "body": "We vragen geen geboortedatum, geen BSN, geen diagnose, geen schoolnaam. Alleen wat we nodig hebben om je kind goed te begeleiden." },
-        { "title": "Bij elk veld staat waarom", "body": "Geen mysterieuze formuliervelden. Bij elke vraag staat waarom we het vragen en wie de informatie te zien krijgt." },
-        { "title": "Gevoelige info gescheiden bewaard", "body": "Bijzonderheden over gezondheid of gevoeligheden zien alleen de begeleiders die op die sessie aanwezig zijn. Niet de hele groep, niet de community." },
-        { "title": "Verwijderen is een knop", "body": "Wil je stoppen? In je persoonlijke omgeving zit een knop \"aanmelding intrekken\". Klikken is genoeg. Geen e-mailverkeer, geen wachttijd." }
+        { "title": "We vragen alleen wat nodig is", "body": "Geen BSN, geen medische geschiedenis, geen schoolnamen." },
+        { "title": "Privacy als ontwerpkeuze", "body": "Bijzonderheden worden alleen gedeeld met de begeleiders van die specifieke sessie." },
+        { "title": "Eigenaarschap", "body": "Je gegevens zijn van jou. Met één knop in je ouder-portaal trek je je aanmelding in. Geen mailtjes, geen wachttijd." }
       ]
     },
     "cta_block": {

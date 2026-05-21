@@ -62,9 +62,11 @@ export function Footer({ variant = "full" }: FooterProps) {
             <a href="mailto:peergrouptaktiek@gmail.com" className="hover:text-white">{t("contact_email")}</a>
           </div>
         )}
-        <div className="mt-10 pt-6 border-t border-white/10 flex flex-wrap justify-between gap-4 text-sm text-white/50">
+        <div className="mt-10 pt-6 border-t border-white/10 flex flex-col sm:flex-row sm:justify-between gap-4 text-sm text-white/50">
           <span>{t("copyright")}</span>
-          {variant === "full" && <span>{t("origin_note")}</span>}
+          {variant === "full" && (
+            <p className="max-w-2xl text-white/60 leading-relaxed">{t("origin_note")}</p>
+          )}
         </div>
       </Container>
     </footer>

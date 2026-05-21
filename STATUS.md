@@ -12,8 +12,8 @@
 |------|--------|
 | Laatst bijgewerkt | 21 mei 2026 |
 | Laatste sessie-type | Cursor |
-| Laatste commit | `8f2533d` (HEAD) · hoofdwerk `00517ed` — workflow adoptie (STATUS-template, privacy-checklist, `docs/TakTiek_cursor_workflow.md`, `.cursor/rules/`) |
-| Volgende geplande actie | Supabase + echte auth, of content/placeholders invullen vóór livegang |
+| Laatste commit | (na push) — homepage rewrite + Martens foto's img1/img2 |
+| Volgende geplande actie | Supabase + auth; privacyverklaring-placeholder; leeftijd 5–12 vs 7–12 alignen indien gewenst |
 
 **Repo:** https://github.com/MK123456789879/TakTiek  
 **Git-root:** `taktiek-site/` (SSH push werkt; `gh` CLI optioneel apart inloggen)
@@ -24,21 +24,19 @@
 
 **Fase:** Dummy / demo
 
-**Eén-zin status:** Volledige Next.js dummy-site met publieke pagina’s, aanmeldformulier, ouderportaal en agenda met inschrijving per themareeks — alles client-side mock, geen database.
+**Eén-zin status:** Dummy-site met vernieuwde homepage (nieuwe copy, 3 pijlers, sectie Hoe wij werken, echte homepage-foto’s), plus portal met reeks-inschrijving — nog geen database.
 
 **Wat werkt:**
 
+- **Homepage** herschreven: hero + img1, 3 pijlers, Hoe wij werken + img2, trust (3 items), praktische strip met groep-toelichting
 - Alle publieke routes + design system (Tailwind 4, tokens, Fredoka/Inter)
-- Aanmelden met validatie, privacy-balk, tooltips, dubbele consent
-- Portal: dashboard, agenda (kalender + lijst), mededelingen, mijn kind, instellingen
-- Reeks-inschrijving (`portal-store`) + maandkalender
-- `npm run build` slaagt; deploybaar op Vercel
+- Aanmelden, portal (agenda, reeks-inschrijving), `npm run build` groen
 
 **Wat is volgende:**
 
 1. Supabase-schema + RLS + echte persistentie
 2. Google OAuth / magic link voor portal
-3. Placeholders invullen (privacyverklaring verwerkingsverantwoordelijke, foto’s, FAQ kosten)
+3. Privacyverklaring verwerkingsverantwoordelijke + overige placeholders (FAQ kosten, team-foto’s)
 
 ---
 
@@ -81,7 +79,7 @@ TakTiek/                          ← workspace root (geen .git)
 - Echte authenticatie (nu demo-knop op `/inloggen`)
 - E-mail / notificaties
 - EN-locale actief (`content/en.json` is placeholder)
-- Echte foto’s (SVG-placeholders in `public/images/placeholder/`)
+- Homepage-foto’s staan (`public/images/home/img1.png`, `img2.png`); overige pagina’s nog SVG-placeholders
 
 ---
 
@@ -100,6 +98,11 @@ TakTiek/                          ← workspace root (geen .git)
 - **2026-05-21 — Cursor** — `turbopack.root` in `next.config.ts` — verkeerde workspace-root bij dev buiten `taktiek-site/` — altijd `cd taktiek-site` voor `npm run dev`
 - **2026-05-21 — Cursor** — Home op `app/page.tsx` — `(public)/page.tsx` verwijderd om routing-conflict te vermijden — één home-route
 - **2026-05-21 — Cursor** — STATUS.md workflow + privacy-checklist — `docs/TakTiek_cursor_workflow.md` — vaste structuur voor multi-agent handover
+- **2026-05-21 — Marten** — Homepage copy-overhaul — privacy-toon zakelijker, pijlers 4→3 — `home.*` in `nl.json`, `Hero`, `PillarGrid`, `TrustSection`
+- **2026-05-21 — Marten** — Sectie "Hoe wij werken" — onderscheid ouderinitiatief vs zorg — `HowWeWorkSection`, `HomeMidImage`, volgorde in `app/page.tsx`
+- **2026-05-21 — Marten** — Homepage-foto's img1/img2 — aangeleverd door Marten — `public/images/home/`, `next/image` in hero + mid
+- **2026-05-21 — Marten** — Hero leeftijd 5–12 in subkop — bewuste copy homepage — FAQ/praktische strip nog 5–12; STATUS noemde 7–12 elders
+- **2026-05-21 — Cursor** — Nav: Vertrouwen uit hoofdnav — alleen footer-link naar `/vertrouwen` — `Nav.tsx`
 
 ---
 
@@ -195,7 +198,7 @@ npm run build   # moet slagen vóór elke push naar main
 
 | Route | Status | Privacy-touchpoint |
 |-------|--------|-------------------|
-| `/` | Af | Trust-sectie [x] |
+| `/` | Af (rewrite mei 2026) | Trust-sectie [x], hero-foto's img1/img2 |
 | `/over` | Af | — |
 | `/team` | Af | — |
 | `/aanpak` | Af | — |
@@ -221,6 +224,7 @@ npm run build   # moet slagen vóór elke push naar main
 4. **Git alleen in `taktiek-site/`** — wijzigingen in workspace-root `TakTiek/*.md` niet automatisch in remote
 5. **Demo-state** — inschrijving, profiel, verwijderen: client-only (`portal-store`), geen persistentie
 6. **Dubbele STATUS.md** — repo-versie is leidend; root-kopie syncen na sessie-einde
+7. **Homepage-foto's** — `img1.png` / `img2.png` in git; optioneel later `.webp` voor performance
 
 ---
 

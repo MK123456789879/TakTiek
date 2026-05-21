@@ -48,11 +48,6 @@ export function Nav({ variant = "public" }: NavProps) {
             </Link>
           </li>
           <li>
-            <Link href="/vertrouwen" className="text-ink-soft font-medium hover:text-purple text-[15px]">
-              {t("nav.trust")}
-            </Link>
-          </li>
-          <li>
             <Link href="/vragen" className="text-ink-soft font-medium hover:text-purple text-[15px]">
               {t("nav.faq")}
             </Link>

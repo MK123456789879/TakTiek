@@ -18,8 +18,7 @@ export function TrustSection() {
           <div>
             <Eyebrow color="purple">{t("eyebrow")}</Eyebrow>
             <h2 className="font-display text-3xl md:text-4xl font-bold mb-6">{t("heading")}</h2>
-            <p className="text-ink-soft mb-4">{t("body1")}</p>
-            <p className="text-ink-soft mb-6">{t("body2")}</p>
+            <p className="text-ink-soft mb-6">{t("body")}</p>
             <Link href="/privacyverklaring" className="text-purple font-semibold hover:underline">
               {t("link")}
             </Link>
