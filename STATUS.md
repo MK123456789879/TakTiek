@@ -12,7 +12,7 @@
 |------|--------|
 | Laatst bijgewerkt | 21 mei 2026 |
 | Laatste sessie-type | Cursor |
-| Laatste commit | `7e614a9` — chore(status): sessie-info bijgewerkt na workflow-adoptie |
+| Laatste commit | `b7c71e5` — chore(status): laatste commit-hash in sessie-info |
 | Volgende geplande actie | Supabase + echte auth, of content/placeholders invullen vóór livegang |
 
 **Repo:** https://github.com/MK123456789879/TakTiek  
